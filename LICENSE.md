@@ -1,0 +1,3 @@
+# License
+
+Sample License File
