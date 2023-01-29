@@ -1,3 +1,5 @@
 # License
 
 Sample License File
+
+Apache 3.0
